@@ -1,0 +1,27 @@
+```
+# Core scientific stack
+numpy==1.26.4
+pandas==2.2.2
+scipy==1.15.3
+matplotlib==3.8.4
+seaborn==0.13.2
+
+# Machine learning
+scikit-learn==1.4.2
+joblib==1.5.1
+
+# Deep learning (for LSTM-AE)
+torch==2.3.1
+torchvision==0.18.1
+torchaudio==2.3.1
+
+# Gradient boosting baseline
+xgboost==2.1.1
+lightgbm==4.5.0
+
+# Streamlit app
+streamlit==1.38.0
+
+# Utilities
+tqdm==4.66.5
+```
